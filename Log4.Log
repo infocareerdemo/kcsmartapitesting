@@ -1,0 +1,29 @@
+18:50:29.046 [main] INFO  - Base URI set to: https://kcsmart.infocareerindia.com/mart/api/v1
+18:50:34.248 [main] INFO  - true
+18:50:34.249 [main] INFO  - OTP sent successfully
+18:50:34.849 [main] INFO  - Attempting to login with: {password=1234, phone=8888888888}
+18:50:35.034 [main] INFO  - The admin token is : Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJBRE1JTiIsImlhdCI6MTcyOTk0ODgzNSwiZXhwIjo2OTEzOTQ4ODM1fQ.BtF7SLnZN3o80ryKe4tDYoSUWUr0eKCY5gd9T5TX85w
+18:50:35.037 [main] INFO  - loginAdminUsingOtp Test passed : All assertions are successful.
+18:50:35.037 [main] INFO  - Admin logged in successfully
+18:50:35.044 [main] INFO  - The response body for Login is : {
+    "userId": 2,
+    "username": "ADMIN",
+    "emailId": "admin@gmail.com",
+    "phone": 8888888888,
+    "phoneOTP": 0,
+    "location": {
+        "locationId": 1,
+        "locationName": "MANDAVELI",
+        "companyName": "INFO",
+        "qrCode": null,
+        "lastUpdatedBy": 1,
+        "lastUpdatedDt": "2024-10-17T11:19:12.86"
+    },
+    "password": "",
+    "walletAmount": 0.0,
+    "role": {
+        "roleId": 1,
+        "roleName": "ADMIN"
+    },
+    "employeeCode": null
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T18:50:26 IST" name="Suite" finished-at="2024-10-26T18:50:36 IST" duration-ms="9610">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T18:50:26 IST" name="Test" finished-at="2024-10-26T18:50:36 IST" duration-ms="9610">
+      <class name="com.mart.test.Productadd">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mart.test.Productadd@240139e1]" started-at="2024-10-26T18:50:26 IST" name="setup" finished-at="2024-10-26T18:50:29 IST" duration-ms="2287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="requestOTP()[pri:0, instance:com.mart.test.Productadd@240139e1]" started-at="2024-10-26T18:50:29 IST" name="requestOTP" finished-at="2024-10-26T18:50:34 IST" duration-ms="5173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- requestOTP -->
+        <test-method signature="getOtpFromDatabase()[pri:0, instance:com.mart.test.Productadd@240139e1]" started-at="2024-10-26T18:50:34 IST" name="getOtpFromDatabase" finished-at="2024-10-26T18:50:34 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOtpFromDatabase -->
+        <test-method signature="loginAdminUsingOtp()[pri:0, instance:com.mart.test.Productadd@240139e1]" started-at="2024-10-26T18:50:34 IST" name="loginAdminUsingOtp" finished-at="2024-10-26T18:50:35 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAdminUsingOtp -->
+        <test-method signature="addProductByAdmin()[pri:0, instance:com.mart.test.Productadd@240139e1]" started-at="2024-10-26T18:50:35 IST" name="addProductByAdmin" finished-at="2024-10-26T18:50:36 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductByAdmin -->
+      </class> <!-- com.mart.test.Productadd -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,1 @@
+{"uuid":"3336070f-8158-49e1-9519-d58bfa741654","name":"com.mart.test.Productadd","children":["08a83c86-8dd9-4cde-a3fb-eb182596464c"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1729948386819,"stop":1729948387649}],"afters":[],"start":1729948386782,"stop":1729948388607}
